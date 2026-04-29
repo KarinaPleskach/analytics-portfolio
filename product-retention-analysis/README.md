@@ -18,7 +18,7 @@ The dataset  is stored in a PostgreSQL DBMS and includes information about users
 
 As a result of the analysis, a dashboard was developed to monitor changes in user retention metrics. [Dashboard link](https://metabase.simulative.ru/public/dashboard/83e03191-6702-44a5-af91-353e479a2750?cohort=&company_name=&day_of_entry=&month_of_entry=0&month_of_entry=1&month_of_entry=2)
 
-![Dashboard picture](https://github.com/KarinaPleskach/analytics-portfolio/raw/master/product-retention-analysis/metabase/visualizations/dashboard.jpg)
+![Dashboard picture](https://github.com/KarinaPleskach/analytics-portfolio/raw/master/product-retention-analysis/metabase/visualizations/dashboard.png)
 
 ## Analysis Overview
 
