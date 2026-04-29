@@ -20,6 +20,7 @@ This repository was created to demonstrate data analysis skills and publish pers
 | # | Project Name | Project Description | Tech Stack |
 |---|-------------|--------------------|------------|
 | 1 | [Retention improvement plan for the IT Resume interview preparation platform](https://github.com/KarinaPleskach/analytics-portfolio/tree/master/product-retention-analysis) | Retention analysis of user behavior with identification of growth opportunities and product improvement recommendations | PostgreSQL<br>Metabase |
+| 3 | [Analysis of Japanese Sakura bloom date dynamics](https://github.com/KarinaPleskach/analytics-portfolio/tree/master/sakura-bloom-analysis) (in progress) | Exploring trends in Sakura blooming, the environmental factors influencing bloom dates, and Sakura tourism popularity | Power Query<br>DAX<br>Power BI |
 
 ## Contacts
 
